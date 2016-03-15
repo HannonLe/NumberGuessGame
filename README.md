@@ -6,7 +6,7 @@
     
 In the beginning of the game, a random n-digit number is randomly generated. The number satisfies:
 
-1. n = 10
+1. n $\leqslant$ 10
 2. repetition allowed
 3. may start with zeros
 
